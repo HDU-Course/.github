@@ -7,6 +7,7 @@ https://github.com/HDU-Course/HDU-FinalExamPaper<br>
 https://github.com/HDU-Course/HDU-Final-Exam<br>
 https://github.com/HDU-Course/H-HDU<br>
 https://github.com/HDU-Course/hdu-term-project-helper<br>
+https://github.com/HDU-Course/HDU-CSLab<br>
 https://github.com/FengGuanxi/HDU-Experience<br>
 https://github.com/ztygalaxy/Hello_HDU<br>
 http://dl.hduhelp.com/<br>
