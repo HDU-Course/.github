@@ -2,7 +2,7 @@
 
 ## 参与贡献
 
-有意向参与贡献可以以邮箱/QQ的方式和组织管理员取得联系
+有意向参与贡献可以以邮箱/QQ的方式和组织管理员(mail: ek1ng@qq.com)取得联系
 
 ## 同类型仓库
 
@@ -14,8 +14,5 @@ https://github.com/HDU-Course/hdu-term-project-helper<br>
 https://github.com/HDU-Course/HDU-CSLab<br>
 https://github.com/FengGuanxi/HDU-Experience<br>
 https://github.com/ztygalaxy/Hello_HDU<br>
-http://dl.hduhelp.com/<br>
 https://github.com/imba-tjd/HDUHomework<br>
 https://github.com/xiao-jay/HDU_data<br>
-
-
