@@ -16,3 +16,7 @@ https://github.com/FengGuanxi/HDU-Experience<br>
 https://github.com/ztygalaxy/Hello_HDU<br>
 https://github.com/imba-tjd/HDUHomework<br>
 https://github.com/xiao-jay/HDU_data<br>
+
+## 声明
+
+本组织的成立仅用于收集散落在网络上的资料以便于帮助学生学习其中的知识，请勿用于任何非法用途，对于其他任何非法用途本组织不负任何责任。
